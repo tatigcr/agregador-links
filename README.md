@@ -1,4 +1,4 @@
-# Link aggregator project for Instagram.
+# Link aggregator project for Instagram. - Agregador de links para Instagram.
 
 # Theme blue
 <img src="blue.png" alt="Theme blue" height="450" width="410"/>
